@@ -1,0 +1,16 @@
+{
+    "party_members": [
+        "characters/Thaldrin Ironheart_Level_5_Paladin.json",
+        "characters/Thalian Moonshadow_Level_5_Ranger.json",
+        "characters/Elaran Windwhisper_Level_5_Bard.json",
+        "characters/Eldrin Stormweaver_Level_5_Sorcerer.json"
+    ],
+    "settings": {
+        "difficulty": "Medium",
+        "length": "Medium",
+        "permadeath": false,
+        "narrative_style": "Balanced",
+        "interaction_level": "Balanced"
+    },
+    "chat_file": "saves/game_2025-01-13_16-38-27_chat.json"
+}
