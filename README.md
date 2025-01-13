@@ -30,7 +30,7 @@ DungeonGPT is an interactive, AI-powered Dungeon Master tool designed to guide p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dungeongpt.git
+   git clone https://github.com/EdwardAThomson/dungeongpt.git
    cd dungeongpt
    ```
    
