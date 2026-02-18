@@ -4,6 +4,7 @@
 from openai import OpenAI
 import os
 from dotenv import load_dotenv
+import google.generativeai as genai
 
 load_dotenv()  # This will load environment variables from the .env file
 
